@@ -1,0 +1,97 @@
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.ContactManagerMainForm.resources
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.cache
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddCourseDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentReadDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.SearchFirstNameDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddFacultyDialog.resources
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddCourseDialog.resources
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddFacultyDialog.resources
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentDialog.resources
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentReadDialog.resources
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.ContactManagerMainForm.resources
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.SearchFirstNameDialog.resources
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.Cache
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\763926\Desktop\RAD\day12\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddCourseDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.ContactManagerMainForm.resources
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.SearchFirstNameDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.cache
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\owner\Documents\Sait class\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddCourseDialog.resources
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentDialog.resources
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.ContactManagerMainForm.resources
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\AddStudentTestDialog.SearchFirstNameDialog.resources
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.Cache
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\763926\Desktop\RAD\day13\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\AddStudentTestDialog.AddCourseDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\ContactManager.ContactManagerMainForm.resources
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\AddStudentTestDialog.SearchFirstNameDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.cache
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\owner\Documents\Sait class\RAD\day14\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\AddStudentTestDialog.AddCourseDialog.resources
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentDialog.resources
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\ContactManager.ContactManagerMainForm.resources
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\AddStudentTestDialog.SearchFirstNameDialog.resources
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.Cache
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\763926\Desktop\RAD\day14\ContactManager (1)\ContactManager\obj\Debug\ContactManager.HelpMenuDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\AddStudentTestDialog.AddCourseDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\AddStudentTestDialog.AddStudentDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\ContactManager.ContactManagerMainForm.resources
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\ContactManager.HelpMenuDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\AddStudentTestDialog.SearchFirstNameDialog.resources
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.cache
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\owner\Documents\Sait class\RAD\day15\ContactManager\obj\Debug\ContactManager.pdb
